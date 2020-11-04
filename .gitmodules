@@ -1,0 +1,4 @@
+[submodule "ShaheenHossain/eagleedu14"]
+	path = ShaheenHossain/eagleedu14
+	url = git@github.com:ShaheenHossain/eagleedu14.git
+	branch = master
